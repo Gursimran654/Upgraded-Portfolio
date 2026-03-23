@@ -328,7 +328,7 @@ a {
 .project-card {
     width: 90%;
     height: 550px;
-    background-image: url(./images/projects/project1.png);
+    background-image: url(project1.png);
     background-size: cover;
     /* background-repeat: no-repeat; */
     position: relative;
@@ -460,12 +460,12 @@ a {
 }
 
 #Project1 {
-    background-image: url(./images/projects/project1.png);
+    background-image: url(project1.png);
 }
 
 #Project2 {
     margin-left: 120px;
-    background-image: url(./images/projects/project2.png);
+    background-image: url(project2.png);
 }
 
 @media (max-width: 1300px) {
